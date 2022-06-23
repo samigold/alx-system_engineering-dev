@@ -1,1 +1,1 @@
-This is my first executable alx repository
+Shell basics command
